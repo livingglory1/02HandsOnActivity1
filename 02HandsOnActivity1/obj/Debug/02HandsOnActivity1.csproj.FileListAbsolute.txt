@@ -1,0 +1,11 @@
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\bin\Debug\02HandsOnActivity1.exe.config
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\bin\Debug\02HandsOnActivity1.exe
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\bin\Debug\02HandsOnActivity1.pdb
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.csprojAssemblyReference.cache
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.CashierWindowQueue.resources
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.QueuingForm.resources
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.Properties.Resources.resources
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.csproj.GenerateResource.cache
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.csproj.CoreCompileInputs.cache
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.exe
+C:\Users\Hawks\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.pdb
